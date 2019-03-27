@@ -3,3 +3,7 @@ A .git file is added to the repository when it is initialized. It doesn't yet
 contain any commits though, that's up to the user to specify. You need to
 initialize the repository because Git needs to know what it should be tracking
 I guess, not everything on your system will be saved this way. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+You can gather all the files you need in the staging area so that even some files need to be committed eventually, they won't be part of a commit if they don't make sense being in one. 
+
