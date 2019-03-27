@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see a bug that
+was introduced?
+The diff showed only the lines that were changed between the two files so that
+narrowed down the number of lines that I had to looked at so I was able to save
+a lot of time combing through the hundreds of lines of code. Since a bug was
+introduced that wasn't there before, I knew that it would show up in one of the
+differences that the terminal would show me. 
