@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git file is added to the repository when it is initialized. It doesn't yet
+contain any commits though, that's up to the user to specify. You need to
+initialize the repository because Git needs to know what it should be tracking
+I guess, not everything on your system will be saved this way. 
