@@ -5,9 +5,30 @@ initialize the repository because Git needs to know what it should be tracking
 I guess, not everything on your system will be saved this way. 
 
 How can you use the staging area to make sure you have one commit per logical change? 
-You can gather all the files you need in the staging area so that even some files need to be committed eventually, they won't be part of a commit if they don't make sense being in one. 
+You can gather all the files you need in the staging area so that even some files 
+need to be committed eventually, they won't be part of a commit if they don't make 
+sense being in one. 
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
-Branches would be helpful in situations like when I want to go back through a project and add features, if I were working on a project with other people, when I didn't want to mess up the main code or try two or more ways of doing something (wouldn't have to choose which was the right way because I could try both!), if I wanted slightly different versions of the same thing, or just when I wanted to play around with the code in general. Branches would help because I wouldn't have to be afraid of messing up the code that I already had and would let me keep track of changes that branched off from the main code and let me get back to things later if I wanted but continue to have working code to go continue with. Think of it like context switching, if you're going to create a new feature or fix a bug, you'll want to create a new branch.
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help? 
+Branches would be helpful in situations like when I want to go back through a 
+project and add features, if I were working on a project with other people, when 
+I didn't want to mess up the main code or try two or more ways of doing something 
+(wouldn't have to choose which was the right way because I could try both!), if I 
+wanted slightly different versions of the same thing, or just when I wanted to play 
+around with the code in general. Branches would help because I wouldn't have to be 
+afraid of messing up the code that I already had and would let me keep track of 
+changes that branched off from the main code and let me get back to things later if 
+I wanted but continue to have working code to go continue with. Think of it like 
+context switching, if you're going to create a new feature or fix a bug, you'll want 
+to create a new branch.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help me visualize the branch structure because I can see all at once how 
+everything is connected. It's easier to follow a path until it meets up with another 
+commit then looking at the structures individually and then trying to create a picture 
+in my head. 
+
+
 
 
