@@ -26,8 +26,21 @@ to create a new branch.
 How do the diagrams help you visualize the branch structure?
 Diagrams help me visualize the branch structure because I can see all at once how 
 everything is connected. It's easier to follow a path until it meets up with another 
-commit then looking at the structures individually and then trying to create a picture 
-in my head. 
+commit then looking at the structures individually and then trying to create in my head. 
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+When two branches are merged they're combined by looking at 3 commits which are the 
+common one the two share and the end points of the other two. The new commit will have 
+the two endpoints as its new parents. The main branch will have any of the changes
+it may have made since the branch was branched from it, plus all the new ones from
+the other branch. Once the branch is merged, it can be deleted because all the 
+commits will be available through the log, combined with the master ones based on
+the timestamp. The branches are reperesented in the diagram in a logical way like 
+it is so that it can show the departure from the main branch and a simple visual
+representation can be created. 
+
+
 
 
 
