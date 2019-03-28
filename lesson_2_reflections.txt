@@ -40,7 +40,15 @@ the timestamp. The branches are reperesented in the diagram in a logical way lik
 it is so that it can show the departure from the main branch and a simple visual
 representation can be created. 
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+The pros of Git's automatic merging is that lines that obviously should be included
+will be so you don't have to go through a bunch of lines of code that didn't change
+or that didn't conflict by hand. The downside is that you'll have to do a little work
+before you can merge if there are things Git considers a conflict, even if it seemed
+obvious to you what should happen. I think the tradeoffs are worth it though and its
+a really useful tool that I'm looking forward to taking advantage of as I work on more
+complex projects and in a collaborative manner. 
 
 
 
