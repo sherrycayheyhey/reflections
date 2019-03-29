@@ -4,4 +4,7 @@ locally is a recipe for disaster and saving the files at a place like GitHub is 
 policy. This would also be extremely helpful in situations where I want to share my work or work
 on a project with one or more other people. 
 
-
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It's better to manually pull changes manually because there may be changes that aren't ready to be shared or 
+I may change my mind. It could create more changes than I wanted and the everything would become less 
+meaningful and harder to manage. 
