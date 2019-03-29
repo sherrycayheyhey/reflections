@@ -17,3 +17,10 @@ it copies the repository from one GitHub account to another while clone is more 
 Branches are when you copy the code in the repository up to a certain point and then make changes away from
 the main branch. Changes may happen to main while a branch is adding commits but eventually it can be merged
 back into main if the changes it made are desirable and any conflicts are resolved. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a copy of the last known state of the remote stored locally, even if you don't merge into it yet,
+is beneficially because then you can be aware of conflicts. Conflicts take a little extra work to fix and
+if you can see the latest version of the remote then maybe can avoid some and also know about changes that 
+have happened so far. If you branched from a earlier commit then you have the possibility of fast-forwarding
+to the remote later when you merge. 
