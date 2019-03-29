@@ -24,3 +24,11 @@ is beneficially because then you can be aware of conflicts. Conflicts take a lit
 if you can see the latest version of the remote then maybe can avoid some and also know about changes that 
 have happened so far. If you branched from a earlier commit then you have the possibility of fast-forwarding
 to the remote later when you merge. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If I had to collaborate without using Git or GitHub I would probably use email chains or Google Docs. The only
+thing I can think of that would be easier when not using Git or GitHub is that the people I collaborate with
+wouldn't have to take the time to learn Git and GitHub if they already didn't know it. I think everything else
+would be more difficult because it would be hard to track stuff, we'd be sharing code fragments, and people 
+would have to look through a lot of code to find what they want or figure out what the most recent change
+was, it would take way too much discipline! 
