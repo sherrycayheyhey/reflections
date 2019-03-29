@@ -1,1 +1,7 @@
-ueoaueo
+When would you want to use a remote repository rather than keeping all your work local?
+I would use a remote repository when I had work that I actually wanted to keep! Storing files only 
+locally is a recipe for disaster and saving the files at a place like GitHub is like an insurance 
+policy. This would also be extremely helpful in situations where I want to share my work or work
+on a project with one or more other people. 
+
+
