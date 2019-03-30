@@ -32,3 +32,6 @@ wouldn't have to take the time to learn Git and GitHub if they already didn't kn
 would be more difficult because it would be hard to track stuff, we'd be sharing code fragments, and people 
 would have to look through a lot of code to find what they want or figure out what the most recent change
 was, it would take way too much discipline! 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes to master in easier because there's a lot less steps you have to go through (like pulling into local repository, merging, and so on). A separate branch is useful when you want to test out a new feature, work with other people, or do something experimental but still have working code to go back to before you started messing with stuff. Unless if it's a really small project that only one person is working on, I think the added cost of using branches is total worth using them. 
